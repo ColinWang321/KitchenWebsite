@@ -1,0 +1,64 @@
+/* Page Footer */
+#kitchen-footer {
+    background-color: #18305b;
+    position: relative;
+    top: 0px;
+}
+#kitchen-footer .container {
+    width: 80%;
+}
+#kitchen-footer .footer-content {
+    color: #ccc;
+    padding: 50px 25px 30px;
+}
+#kitchen-footer .footer-content h3 {
+    font-size: 40px;
+    line-height: 1.2;
+    margin-bottom: 8px;
+}
+#kitchen-footer .footer-content h3, #kitchen-footer .footer-content h4 {
+    color: white;
+}
+#kitchen-footer .footer-content span {
+    color: #fff;
+    font-weight: 600;
+    text-align: right;
+}
+#kitchen-footer .footer-content h3 span {
+    font-size: 32px;
+}
+#kitchen-footer .footer-content p {
+    font-size: 13px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    padding-bottom: 0;
+    padding-top: 8px;
+}
+#kitchen-footer .footer-left p {
+    font-size: 16px;
+}
+#kitchen-footer .footer-content ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 5px;
+}
+#kitchen-footer .footer-content ul li {
+    padding-bottom: 1px;
+    padding-left: 0;
+    padding-top: 1px;
+}
+#kitchen-footer .footer-content i {
+    margin-right: 4px;
+}
+#kitchen-footer .footer-content a {
+    color: white;
+    text-decoration: none;
+}
+#kitchen-footer .footer-content p {
+    font-size: 13px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    padding-bottom: 0;
+    padding-top: 8px;
+}
